@@ -8,4 +8,4 @@ Hello and welcome to this blog.
 
 [アカウント作っただけ](./_posts/2022-07-01-First_bog.md)
 
-<p><a href=”./_posts/2023-05-15.md”>復活（2023-05-15）</a></p>
+[復活](./_posts/2022-07-01-First_bog.md)
