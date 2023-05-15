@@ -6,6 +6,6 @@ Hello and welcome to this blog.
 
 ## Yuitatsu's blog
 
-[アカウント作っただけ](./_posts/2022-07-01-First_bog.md)
+[アカウント作っただけ(2022-07-01)](./_posts/2022-07-01-First_bog.md)
 
-[復活](./_posts/2022-07-01-First_bog.md)
+[復活(2023-05-15)](./_posts/2022-07-01-First_bog.md)
