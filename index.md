@@ -6,4 +6,3 @@ Hello and welcome to this blog.
 
 ## Yuitatsu's blog
 
-[Twitter](https://twitter.com/taramasukoi?t=glBAGcfGqdnEQZrZjj4FMQ&s=06). 
