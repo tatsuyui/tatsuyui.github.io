@@ -6,3 +6,5 @@ Hello and welcome to this blog.
 
 ## Yuitatsu's blog
 
+<a href=”//mailmarketinglab.jp/2019-10-02/”>アカウント作っただけ(2022)</a>
+<a href=”//mailmarketinglab.jp/2019-10-02/”>復活（2023-05-15）</a>
