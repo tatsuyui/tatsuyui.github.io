@@ -6,5 +6,6 @@ Hello and welcome to this blog.
 
 ## Yuitatsu's blog
 
-<p><a href=”https://github.com/tatsuyui/tatsuyui.github.io/blob/mastertatsuyui.github.io/_posts/2022-07-01-First_bog.md”>アカウント作っただけ(2022)</a></p>
+[アカウント作っただけ](https://www.sejuku.net/blog/](https://github.com/tatsuyui/tatsuyui.github.io/blob/mastertatsuyui.github.io/_posts/2022-07-01-First_bog.md)
+
 <p><a href=”./_posts/2023-05-15.md”>復活（2023-05-15）</a></p>
