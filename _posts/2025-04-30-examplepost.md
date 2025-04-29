@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "First Article"
-date: 2025-04-01
+date: 2025-04-30
 categories: blog
-tags: [Jekyll, tutorial]
+tags: [CompTIA, Pentest]
 ---
 
 # First Article
