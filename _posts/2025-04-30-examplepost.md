@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Article"
-date: 2025-04-30
+date: 2025-04-01
 categories: blog
 ---
 
