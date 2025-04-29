@@ -54,7 +54,11 @@ footer {
 }
 
 /* 画像のスタイル */
+
 img {
-    max-width: 100%;
+    max-width: 400px;
+    width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
