@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "First Article"
-date: 2025-04-01
+title: "記録開始"
+date: 2025-04-30
 categories: blog
-tags: [Jekyll, tutorial]
+tags: [CompTIA, Pentest]
 ---
 
 # 今日の学び
 
-- GitHub Pagesは便利
-- Markdownで書けるのが嬉しい
+- テスト
