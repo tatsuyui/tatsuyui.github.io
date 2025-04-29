@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "記録開始"
+title: 記録開始
 date: 2025-04-30
 categories: blog
 tags: [CompTIA, Pentest]
