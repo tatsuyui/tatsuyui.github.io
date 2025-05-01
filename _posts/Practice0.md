@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初投稿
+title: "初投稿"
 date: 2025-04-29
 categories: blog
 ---
