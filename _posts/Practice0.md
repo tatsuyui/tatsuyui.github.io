@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "初投稿"
-date: 2025-04-29
+title: "First Article"
+date: 2025-04-01
 categories: blog
+tags: [Jekyll, tutorial]
 ---
 
 # 今日の学び
